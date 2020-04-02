@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Witaj swiecie");
         System.out.println("Witaj swiecie123");
         System.out.println("Witaj swiecie12345");
+        System.out.println("Witaj wielki swiecie");
     }
 }
