@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello World123");
         System.out.println("Witaj swiecie");
+        System.out.println("Witaj swiecie123");
     }
 }
